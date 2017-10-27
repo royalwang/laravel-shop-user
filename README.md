@@ -2,14 +2,14 @@
 # 安装
 
 ```shell
-$ composer require "simple-shop/laravel-shop-car"
+$ composer require "simple-shop/laravel-shop-user"
 ```
 
   or add the following line to your project's `composer.json`:
 
 ```json
 "require": {
-    "simple-shop/laravel-shop-car": "1.0.*"
+    "simple-shop/laravel-shop-user": "1.0.*"
 }
 ```
 
